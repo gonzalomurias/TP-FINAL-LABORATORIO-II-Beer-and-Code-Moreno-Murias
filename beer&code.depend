@@ -1,0 +1,2205 @@
+# depslib dependency file v1.0
+1624553582 source:c:\users\gonza\desktop\beer&code\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\beer&code\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624508475 c:\users\gonza\desktop\beer&code\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624553705 source:c:\users\gonza\desktop\beer&code\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1622599738 source:c:\users\gonza\desktop\tp 2 laboratorio\beer&code\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1605024169 c:\users\gonza\desktop\tp 2 laboratorio\beer&code\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622602631 c:\users\gonza\desktop\tp 2 laboratorio\beer&code\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622602924 source:c:\users\gonza\desktop\tp 2 laboratorio\beer&code\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+
+1622600879 c:\users\gonza\desktop\tp 2 laboratorio\beer&code\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622602631 source:c:\users\gonza\desktop\tp 2 laboratorio\beer&code\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1622599738 source:c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1605024169 c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622660536 c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622662352 c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622663052 source:c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1622664784 source:c:\users\agust\onedrive\escritorio\tp 2 laboratorio\beer&code\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+
+1624497483 c:\users\gonza\desktop\beer&code\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624508086 source:c:\users\gonza\desktop\beer&code\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+
+1624420344 source:c:\users\gonza\desktop\beer&code\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1624160390 c:\users\gonza\desktop\beer&code\include\fecha.h
+
+1623979179 source:c:\users\gonza\desktop\beer&code\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1623979070 c:\users\gonza\desktop\beer&code\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624421555 source:c:\users\gonza\desktop\beer&code\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1624495046 c:\users\gonza\desktop\beer&code\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1622746133 source:c:\users\agust\onedrive\escritorio\beer&code\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+
+1605024169 c:\users\agust\onedrive\escritorio\beer&code\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623802641 c:\users\agust\onedrive\escritorio\beer&code\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1623802641 c:\users\agust\onedrive\escritorio\beer&code\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1623208113 source:c:\users\agust\onedrive\escritorio\beer&code\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1623206639 c:\users\agust\onedrive\escritorio\beer&code\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1623206571 c:\users\agust\onedrive\escritorio\beer&code\include\fecha.h
+
+1623206571 c:\users\agust\onedrive\escritorio\beer&code\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1623207908 source:c:\users\agust\onedrive\escritorio\beer&code\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+
+1623806916 source:c:\users\agust\onedrive\escritorio\beer&code\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+
+1623207593 source:c:\users\agust\onedrive\escritorio\beer&code\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1623802641 source:c:\users\agust\onedrive\escritorio\beer&code\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+
+1623806166 source:c:\users\agust\onedrive\escritorio\beer&code\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+
+1623806166 c:\users\agust\onedrive\escritorio\beer&code\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1623806930 c:\users\agust\onedrive\escritorio\beer&code\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1623807462 source:c:\users\agust\onedrive\escritorio\beer&code\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+
+1624419371 c:\users\gonza\desktop\beer&code\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1624157427 c:\users\gonza\desktop\beer&code\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1624419390 source:c:\users\gonza\desktop\beer&code\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+
+1624516420 source:c:\users\gonza\desktop\beer&code\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+
+1624513947 source:c:\users\gonza\desktop\beer&code\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1623990290 c:\users\gonza\desktop\beer&code\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1624495119 c:\users\gonza\desktop\beer&code\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624496185 source:c:\users\gonza\desktop\beer&code\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625009432 source:c:\users\gonza\desktop\beer&codefinal\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\beer&codefinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625117357 c:\users\gonza\desktop\beer&codefinal\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinal\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624495119 c:\users\gonza\desktop\beer&codefinal\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625115175 source:c:\users\gonza\desktop\beer&codefinal\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\gonza\desktop\beer&codefinal\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\gonza\desktop\beer&codefinal\include\fecha.h
+
+1623979070 c:\users\gonza\desktop\beer&codefinal\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinal\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625112047 c:\users\gonza\desktop\beer&codefinal\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625106316 source:c:\users\gonza\desktop\beer&codefinal\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\gonza\desktop\beer&codefinal\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1623979179 source:c:\users\gonza\desktop\beer&codefinal\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625122141 source:c:\users\gonza\desktop\beer&codefinal\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+
+1624496185 source:c:\users\gonza\desktop\beer&codefinal\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\gonza\desktop\beer&codefinal\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1625114062 source:c:\users\gonza\desktop\beer&codefinal\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625114685 c:\users\gonza\desktop\beer&codefinal\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625117357 source:c:\users\gonza\desktop\beer&codefinal\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1625023477 c:\users\gonza\desktop\beer&codefinal\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625026037 source:c:\users\gonza\desktop\beer&codefinal\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625009432 source:c:\users\agust\onedrive\escritorio\beer&codefinal\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\agust\onedrive\escritorio\beer&codefinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinal\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinal\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624495119 c:\users\agust\onedrive\escritorio\beer&codefinal\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625115175 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\agust\onedrive\escritorio\beer&codefinal\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\agust\onedrive\escritorio\beer&codefinal\include\fecha.h
+
+1623979070 c:\users\agust\onedrive\escritorio\beer&codefinal\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinal\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625112047 c:\users\agust\onedrive\escritorio\beer&codefinal\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\agust\onedrive\escritorio\beer&codefinal\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625114062 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625114685 c:\users\agust\onedrive\escritorio\beer&codefinal\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625106316 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1625117357 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1624496185 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1625120768 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625120283 c:\users\agust\onedrive\escritorio\beer&codefinal\include\rankingproductos.h
+
+1625120345 source:c:\users\agust\onedrive\escritorio\beer&codefinal\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625120345 source:c:\users\gonza\desktop\beer&codefinal\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625120283 c:\users\gonza\desktop\beer&codefinal\include\rankingproductos.h
+
+1625009432 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624495119 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625156607 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\fecha.h
+
+1623979070 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625114062 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625114685 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625106316 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1625154723 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625120345 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625120283 c:\users\agust\onedrive\escritorio\beer&codefinalfinal\include\rankingproductos.h
+
+1624496185 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1625122465 source:c:\users\agust\onedrive\escritorio\beer&codefinalfinal\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+
+1625165788 source:c:\users\gonza\desktop\beer&codefinalfinal\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\beer&codefinalfinal\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalfinal\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalfinal\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625164476 c:\users\gonza\desktop\beer&codefinalfinal\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625156607 source:c:\users\gonza\desktop\beer&codefinalfinal\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\gonza\desktop\beer&codefinalfinal\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\gonza\desktop\beer&codefinalfinal\include\fecha.h
+
+1623979070 c:\users\gonza\desktop\beer&codefinalfinal\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalfinal\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\gonza\desktop\beer&codefinalfinal\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\gonza\desktop\beer&codefinalfinal\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\gonza\desktop\beer&codefinalfinal\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625165398 source:c:\users\gonza\desktop\beer&codefinalfinal\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625114685 c:\users\gonza\desktop\beer&codefinalfinal\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625157027 source:c:\users\gonza\desktop\beer&codefinalfinal\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\gonza\desktop\beer&codefinalfinal\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1625164476 source:c:\users\gonza\desktop\beer&codefinalfinal\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\gonza\desktop\beer&codefinalfinal\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625122465 source:c:\users\gonza\desktop\beer&codefinalfinal\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+
+1625120283 c:\users\gonza\desktop\beer&codefinalfinal\include\rankingproductos.h
+
+1625120345 source:c:\users\gonza\desktop\beer&codefinalfinal\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625164639 source:c:\users\gonza\desktop\beer&codefinalfinal\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\gonza\desktop\beer&codefinalfinal\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1625156607 source:c:\users\agust\downloads\beer&codefinalposta\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1605024169 c:\users\agust\downloads\beer&codefinalposta\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625102173 c:\users\agust\downloads\beer&codefinalposta\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\agust\downloads\beer&codefinalposta\include\fecha.h
+
+1623979070 c:\users\agust\downloads\beer&codefinalposta\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\downloads\beer&codefinalposta\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\agust\downloads\beer&codefinalposta\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\agust\downloads\beer&codefinalposta\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\agust\downloads\beer&codefinalposta\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\agust\downloads\beer&codefinalposta\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625168443 c:\users\agust\downloads\beer&codefinalposta\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625165398 source:c:\users\agust\downloads\beer&codefinalposta\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625114685 c:\users\agust\downloads\beer&codefinalposta\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625157027 source:c:\users\agust\downloads\beer&codefinalposta\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\agust\downloads\beer&codefinalposta\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1625168443 source:c:\users\agust\downloads\beer&codefinalposta\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1625169487 c:\users\agust\downloads\beer&codefinalposta\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1623979179 source:c:\users\agust\downloads\beer&codefinalposta\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625122465 source:c:\users\agust\downloads\beer&codefinalposta\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+
+1625120283 c:\users\agust\downloads\beer&codefinalposta\include\rankingproductos.h
+
+1625120345 source:c:\users\agust\downloads\beer&codefinalposta\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625169487 source:c:\users\agust\downloads\beer&codefinalposta\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\agust\downloads\beer&codefinalposta\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1625170093 source:c:\users\agust\downloads\beer&codefinalposta\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1625170093 source:c:\users\gonza\desktop\beer&codefinalposta\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\beer&codefinalposta\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalposta\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625168443 c:\users\gonza\desktop\beer&codefinalposta\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625169487 c:\users\gonza\desktop\beer&codefinalposta\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625156607 source:c:\users\gonza\desktop\beer&codefinalposta\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\gonza\desktop\beer&codefinalposta\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\gonza\desktop\beer&codefinalposta\include\fecha.h
+
+1623979070 c:\users\gonza\desktop\beer&codefinalposta\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalposta\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\gonza\desktop\beer&codefinalposta\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\gonza\desktop\beer&codefinalposta\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\gonza\desktop\beer&codefinalposta\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625173731 source:c:\users\gonza\desktop\beer&codefinalposta\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1625173731 c:\users\gonza\desktop\beer&codefinalposta\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625157027 source:c:\users\gonza\desktop\beer&codefinalposta\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\gonza\desktop\beer&codefinalposta\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1625173731 source:c:\users\gonza\desktop\beer&codefinalposta\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\gonza\desktop\beer&codefinalposta\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625122465 source:c:\users\gonza\desktop\beer&codefinalposta\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+
+1625120283 c:\users\gonza\desktop\beer&codefinalposta\include\rankingproductos.h
+
+1625120345 source:c:\users\gonza\desktop\beer&codefinalposta\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625169487 source:c:\users\gonza\desktop\beer&codefinalposta\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\gonza\desktop\beer&codefinalposta\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1626304548 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625181465 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1626384296 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625169487 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625156607 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\fecha.h
+
+1623979070 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1626384648 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1626308063 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625157027 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1626384325 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625183641 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+	"Venta.h"
+
+1625120283 c:\users\gonza\desktop\beer&codefinalpostapostaposta\include\rankingproductos.h
+
+1625120345 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625169487 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\gonza\desktop\beer&codefinalpostapostaposta\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
+1626304548 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<conio.h>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Usuarios.h"
+
+1605024169 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625181465 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\producto.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1626384296 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\funciones.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625169487 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\usuarios.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625156607 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Persona.h"
+	"Cliente.h"
+
+1625102173 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\empleado.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625101190 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\fecha.h
+
+1623979070 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\persona.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625117357 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\venta.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625156585 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\cliente.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625026037 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\compras.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Compras.h"
+	"Funciones.h"
+
+1625023477 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\compras.h
+	<iostream>
+	<clocale>
+	<cstring>
+
+1626385656 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\detalleventa.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Venta.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"Funciones.h"
+	"Cliente.h"
+	"Compras.h"
+
+1626308063 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\detalleventa.h
+	<iostream>
+	<clocale>
+	<cstring>
+	"Fecha.h"
+	"Persona.h"
+
+1625157027 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+
+1625101190 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+
+1626384325 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\funciones.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"Fecha.h"
+	"Empleado.h"
+	"Persona.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Cliente.h"
+	"Usuarios.h"
+	"Compras.h"
+
+1623979179 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\persona.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Persona.h"
+
+1625183641 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\producto.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"Funciones.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+	<cstdio>
+	"Venta.h"
+
+1625120283 c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\include\rankingproductos.h
+
+1625120345 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\rankingproductos.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Producto.h"
+	"DetalleVenta.h"
+	"RankingProductos.h"
+
+1625169487 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\usuarios.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	"rlutil.h"
+	"Fecha.h"
+	<ctime>
+	"Usuarios.h"
+
+1625117357 source:c:\users\gonza\desktop\utn - tsp\2. segundo cuatrimestre\beer&codefinalpostapostaposta\src\venta.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"rlutil.h"
+	"Empleado.h"
+	"Fecha.h"
+	"Producto.h"
+	"Venta.h"
+	"Cliente.h"
+
